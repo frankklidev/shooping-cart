@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/books.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Iphone",
+      "price": 1.05,
+      "imgUrl": "/imgs/iphone.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Plants",
+      "price": 14,
+      "imgUrl": "/imgs/plants.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Old Phone",
+      "price": 140,
+      "imgUrl": "/imgs/old-phone.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Computer",
+      "price": 1400,
+      "imgUrl": "/imgs/computer.jpg"
+    }
+  ]
